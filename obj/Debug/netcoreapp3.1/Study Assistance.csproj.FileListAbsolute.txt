@@ -1,0 +1,31 @@
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\bin\Debug\netcoreapp3.1\Study Assistance.exe
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\bin\Debug\netcoreapp3.1\Study Assistance.deps.json
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\bin\Debug\netcoreapp3.1\Study Assistance.runtimeconfig.json
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\bin\Debug\netcoreapp3.1\Study Assistance.runtimeconfig.dev.json
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\bin\Debug\netcoreapp3.1\Study Assistance.dll
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\bin\Debug\netcoreapp3.1\Study Assistance.pdb
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study Assistance.csprojAssemblyReference.cache
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study_Assistance.Form1.resources
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study_Assistance.Properties.Resources.resources
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study Assistance.csproj.GenerateResource.cache
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study Assistance.AssemblyInfoInputs.cache
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study Assistance.AssemblyInfo.cs
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study Assistance.csproj.CoreCompileInputs.cache
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study Assistance.dll
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study Assistance.pdb
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study Assistance.genruntimeconfig.cache
+C:\Users\Tahmid\source\repos\Study Assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study_Assistance.register.resources
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study_Assistance.login.resources
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study Assistance.csproj.CopyComplete
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study_Assistance.dashboard.resources
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study_Assistance.Notes.resources
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study_Assistance.borrow.resources
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study_Assistance.buySell.resources
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study_Assistance.exchange.resources
+C:\Users\Tahmid\source\repos\Study assistance\Study Assistance\obj\Debug\netcoreapp3.1\Study_Assistance.Home.resources
